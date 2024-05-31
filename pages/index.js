@@ -22,15 +22,23 @@ export default function Home() {
 <div></div>
 <div>With Sat Thep Bien Hoa, customers can be assured of the quality of iron and steel products and professional services. We commit to always be willing to support and accompany our customers to bring success and progress in every construction project.</div>
 <div></div>
+<div>
+
+[caption id="attachment_10912" align="aligncenter" width="1000"]<img class="size-full wp-image-10912" src="https://satthepbienhoa.vn/wp-content/uploads/2024/04/Bang-gia-thep-hop-Hoa-Phat-tai-Binh-Duong.jpg" alt="Bảng giá thép hộp Hòa Phát tại Bình Dương" width="1000" height="750" /> Bảng giá thép hộp Hòa Phát tại Bình Dương[/caption]
+
+</div>
+<div></div>
 <div>Contact Info:</div>
 <div></div>
 <div>Website: <a href="https://satthepbienhoa.vn/">satthepbienhoa.vn</a></div>
 <div></div>
-<div>Google Maps tại &lt;a href="https://maps.app.goo.gl/fv8YowoNpnqDmnmQ8 "&gt;Google Map&lt;/a&gt;</div>
+<div>
+<div>Google Maps</div>
 <div></div>
-<div>Fanpage &lt;a href="https://www.facebook.com/congtylocthien"&gt;facebook&lt;/a&gt;</div>
+<div>Facebook fanpage</div>
 <div></div>
-<div>Truy cập website google:&lt;a href="https://sites.google.com/view/satthepbienhoa/trang-chủ"&gt;Google Site&lt;/a&gt;</div>
+<div>Visit the Google Sites website</div>
+</div>
         </p>
       </main>
 
