@@ -6,13 +6,20 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+import Head from 'next/head'
+import Header from '@components/Header'
+import Footer from '@components/Footer'
+
+export default function Home() {
+  return (
+    <div className="container">
+      <Head>
       <section class="content4 cid-scbObQMNYs" id="content4-o">
   <div class="container-fluid">
       <div class="row justify-content-center">
           <div class="title col-md-12 col-lg-12">
               <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2"><strong>View Lưới Sắt B40 PNG</strong></h3>
           </div>
-          <div class="mb-1"> <center><!-- fixed_size_300 --></center> </div>
       </div>
   </div>
 </section>
@@ -82,6 +89,13 @@ export default function Home() {
         <a href="https://dailythepxaydung.net/wp-content/uploads/2018/10/ban-luoi-b40-chat-luong-763x480.jpg" target="_blank"><img alt="Äá»a Chá» Ban LÆ°á»i B40 Ráº» Nháº¥t Thá» TrÆ°á»ng Thep Xay Dá»±ng" src="https://dailythepxaydung.net/wp-content/uploads/2018/10/ban-luoi-b40-chat-luong-763x480.jpg" width="100%" onerror="this.onerror=null;this.src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQGZq0pjDV3TnF7Xe_V7Iqave-4b9ORT4JHA&amp;usqp=CAU';"></a>
         <small>Source: dailythepxaydung.net</small>
         <p>Bundesstraße 40, a german road.</p>
+      </main>
+
+      <Footer />
+    </div>
+  )
+}
+
       </main>
 
       <Footer />
